@@ -6,18 +6,18 @@ Author :
     • Fahim Ahmed
   
 Team Project HEKER HEKER BIUTIPUL :
-    • Muhamad Rizal Fiansyah Id
+    • Tasneem Afnan Tabassum 
     • Angga Kurniawan
     • Yayan XD
     • Boy Hamzah
     • Latip Harkat
     • Zacky Tricker
     • Sutan Ubay
-    • Rizky Dev
-    • Iqbal Dev
+    • Rizbi Ahmed
+    • Harry Williams 
     • Aap Afandi
     • Fallen
-    • Hanifan
+
 ```
 #### ⇨  Feature Login
 ```
