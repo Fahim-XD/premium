@@ -9,8 +9,8 @@ Team Project TEAM LEGION HACKERS AND SECURITY RESEARCHERS  :
     • Tasneem Afnan Tabassum 
     • Angga Kurniawan
     • Yayan XD
-    • Boy Hamzah
-    • Latip Harkat
+    • Fahim Rehman 
+    • Sunvi Rahman
     • Zacky Tricker
     • Sutan Ubay
     • Rizbi Ahmed
