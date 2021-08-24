@@ -70,7 +70,7 @@ $ python Premium.py
 
 #### ⇨ Note
 ```
-[!] Dapunta Tidak Pernah Membuat SC Berbayar
+[!] Fahim Tidak Pernah Membuat SC Berbayar
 [!] SC Ini 100% Gratis, Resiko Atas Penyalahgunaan, Ditanggung Pengguna
 [!] Recode? Silahkan, Asal Jangan Ganti Bot Follownya
 [!] Dilarang Keras Memperjual Belikan File SC Ini
