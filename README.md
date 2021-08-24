@@ -5,7 +5,7 @@
 Author :
     • Fahim Ahmed
   
-Team Project HEKER HEKER BIUTIPUL :
+Team Project TEAM LEGION HACKERS AND SECURITY RESEARCHERS  :
     • Tasneem Afnan Tabassum 
     • Angga Kurniawan
     • Yayan XD
