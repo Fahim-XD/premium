@@ -44,7 +44,7 @@ $ pip install requests
 $ pip install mechanize  
 $ pip install futures  
 $ rm -rf premium  
-$ git clone https://github.com/Fahim-XD/premium.git  
+$ git clone https://github.com/Fahim-XD/premium  
 ```
 #### ⇨  Run Script
 ```
