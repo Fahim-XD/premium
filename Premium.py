@@ -318,7 +318,7 @@ def menu():
     print((k+"\n[ "+p+"Welcome "+a["name"]+k+" ]"+p))
     print((k+"\n["+p+"•"+k+"]"+p+" Your ID : "+id))
     print((k+"["+p+"•"+k+"]"+p+" Your IP : "+ip))
-    print((k+"["+p+"•"+k+"]"+p+" Status  : "+m+"Test Version"+p))
+    print((k+"["+p+"•"+k+"]"+p+" Status  : "+m+"Premium"+p))
     print((k+"["+p+"•"+k+"]"+p+" Joined  : "+durasi))
     print((k+"["+p+"•"+k+"]"+p+" Crack   : "+negara))
     print((k+"\n["+p+"1"+k+"]"+p+" Crack ID From Public/Friend"))
