@@ -1,4 +1,4 @@
-# premium
+
 # ✭ PREMIUM CRACK
 #### Made With ❤️ By FahimXD 
 ``` 
@@ -11,8 +11,8 @@ Team Project TEAM LEGION HACKERS AND SECURITY RESEARCHERS  :
     • Yayan XD
     • Fahim Rehman 
     • Sunvi Rahman
-    • Zacky Tricker
-    • Sutan Ubay
+    • Alpha 
+    • Fahim Gumacche:3
     • Rizbi Ahmed
     • Harry Williams 
     • Aap Afandi
