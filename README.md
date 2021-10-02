@@ -7,16 +7,16 @@ Author :
   
 Team Project TEAM LEGION HACKERS AND SECURITY RESEARCHERS  :
     • Tasneem Afnan Tabassum 
-    • Angga Kurniawan
-    • Yayan XD
+    • XD
+    • XD
     • Fahim Rehman 
     • Sunvi Rahman
     • Alpha 
     • Fahim Gumacche:3
     • Rizbi Ahmed
     • Harry Williams 
-    • Aap Afandi
-    • Fallen
+    
+    
 
 ```
 #### ⇨  Feature Login
@@ -69,9 +69,3 @@ $ python premium.py
 ```
 
 #### ⇨ Note
-```
-[!] Fahim Tidak Pernah Membuat SC Berbayar
-[!] SC Ini 100% Gratis, Resiko Atas Penyalahgunaan, Ditanggung Pengguna
-[!] Recode? Silahkan, Asal Jangan Ganti Bot Follownya
-[!] Dilarang Keras Memperjual Belikan File SC Ini
-```
