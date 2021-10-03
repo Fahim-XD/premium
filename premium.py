@@ -1169,7 +1169,7 @@ class bapittl:
           ttl=tt["birthday"]
         except:pass
         self.cp.append(username + " • " + password + " • " + ttl)
-        print(("\r\x1b[0;33m[\x1b[0;37mCP\x1b[0;33m] %s • %s • %s\x1b[0m   "%(username,password,ttl)))
+        print(("\r\x1b[0;36m[\x1b[0;37mCP\x1b[0;36m] %s • %s • %s\x1b[0m   "%(username,password,ttl)))
         save = open("cp.txt", "a+")
         save.write(str(username) + " • " + str(password) + " • "+ str(ttl)+"\n")
         save.close()
