@@ -1240,7 +1240,7 @@ def wangsaff():
     banner()
     input("\n[ Contact FahimXD? ]")
     jalan(k+"["+p+"•"+k+"]"+p+" Open Whatsapp...")
-    os.system("xdg-open https://wa.me/+8801880290192?text=Assalamualaikum%20Bang,%20Saya%20Pengguna%20SC%20SBF%20Fahimv.%20Code:%20404")
+    os.system("xdg-open https://wa.me/?text=Assalamualaikum%20Bang,%20Saya%20Pengguna%20SC%20SBF%20Fahimv.%20Code:%20404")
     input(k+"\n[ "+p+"Back"+k+" ]"+p)
     menu()
 
