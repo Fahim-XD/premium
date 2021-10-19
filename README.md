@@ -49,7 +49,7 @@ $ git clone https://github.com/Fahim-XD/premium
 #### ⇨  Run Script
 ```
 $ cd premium    
-$ python premium.py  
+$ python2 premium.py  
 ```
 #### ⇨  Information
 ```
